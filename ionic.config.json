@@ -1,0 +1,7 @@
+{
+  "name": "auth-google",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
